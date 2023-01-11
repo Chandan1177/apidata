@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="json-anish">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/json-anish.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jar_files/json-simple-2.3.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
